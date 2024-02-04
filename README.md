@@ -1,4 +1,4 @@
-![park](https://github.com/gabmartinbr/gabmartinbr/assets/114770294/7bbe8333-2ab6-4a80-bc43-43bdd0eeefbe)
+![8351209](https://github.com/gabmartinbr/gabmartinbr/assets/114770294/01df1763-75f4-4118-86de-1a02335b1b69)
 
 <h1 align="center"> cout << "Hello World!👋" << endl;
 </h1>
