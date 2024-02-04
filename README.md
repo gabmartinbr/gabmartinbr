@@ -1,23 +1,16 @@
-<p align="center">
-  <img src="assets/mariogif.gif" alt="Header" style="width: 100%;">
-</p>
-<h1 align="center"> "Hello World"
-<img src="assets/hand_waving.gif" width="800" height="800">
+[![Header](assets/mariogif.gif)]()
+<h1 align="center"> cout << "Hello World!👋" << endl;
 </h1>
-
-### Hi there 👋
+<img align="right" alt="Coding" width="400" src="assets/water.gif">
 
 <!--
 **gabmartinbr/gabmartinbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently studying in ***University of La Laguna*** 
+- 🌱 I’m currently learning mobile apps development 
+- 📫 How to reach me: [***student***](mailto:alu0101539157@ull.edu.es) or [***personal***](gabriel04mb@gmail.com)
+- ⚡ Fun fact: trying to survive uni
+
+### Currently ussing:
