@@ -1,4 +1,6 @@
-[![Header](assets/mariogif.gif)]()
+<p align="center">
+  <img src="assets/mariogif.gif" alt="Header" style="width: 100%;">
+</p>
 <h1 align="center"> "Hello World"
 <img src="assets/hand_waving.gif" width="800" height="800">
 </h1>
