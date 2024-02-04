@@ -22,6 +22,15 @@ Here are some ideas to get you started:
   <img style="vertical-align:middle; margin:5px 10px" height="35" width="35" src="assets/windows_blue.png"> Windows 11
 </p>
 
-### Languages and tools
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="assets/bash.svg" alt="bash" width="40" height="40"/> 
+<p align="left">
+  <img src="assets/linux.svg" alt="linux" width="40" height="40"/>
+  <img src="assets/bash.svg" alt="bash" width="40" height="40"/>
+  <img src="assets/c++.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="assets/html.svg" alt="html" width="40" height="40"/>
+  <img src="assets/expo.svg" alt="expo" width="40" height="40"/>
+  <img src="assets/react.svg" alt="react" width="40" height="40"/>
+  <img src="assets/android.svg" alt="android" width="40" height="40"/>
+
+  
+</p>
