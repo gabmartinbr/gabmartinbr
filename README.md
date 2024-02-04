@@ -1,4 +1,4 @@
-![mariogif](https://github.com/gabmartinbr/gabmartinbr/assets/114770294/79cdf6bf-dbc9-4614-9220-b349254ba2c3)
+![room](https://github.com/gabmartinbr/gabmartinbr/assets/114770294/509045ba-6814-4b40-8037-6283c0f5df78)
 
 <h1 align="center"> cout << "Hello World!👋" << endl;
 </h1>
