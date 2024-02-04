@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [***student***](mailto:alu0101539157@ull.edu.es) or [***personal***](gabriel04mb@gmail.com)
 - ⚡ Fun fact: trying to survive uni
 
-### Currently ussing:
+### Currently using: <br><br> <p><img style="vertical-align:middle; margin:5px 10px" height=35 width=35 src="assets/arch_blue.svg"></p> <p><img style="vertical-align:middle; margin:5px 0px;" height=35 width=35 src="assets/windows_blue.png"></p>
