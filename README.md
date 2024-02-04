@@ -2,7 +2,7 @@
 
 <h1 align="center"> cout << "Hello World!👋" << endl;
 </h1>
-<img align="right" alt="Coding" width="400" src="assets/water.gif">
+<img align="right" alt="Coding" width="400" src="assets/snor.gif">
 
 <!--
 **gabmartinbr/gabmartinbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 <p>
   <img style="vertical-align:middle; margin:5px 10px" height="35" width="35" src="assets/windows_blue.png"> Windows 11
 </p>
+
+### Languages and tools
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="assets/bash.svg" alt="bash" width="40" height="40"/> 
