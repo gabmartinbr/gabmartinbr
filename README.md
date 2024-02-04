@@ -1,6 +1,6 @@
-[![MasterHead]()]()
+[![Header](assets/mariogif.gif)]()
 <h1 align="center"> "Hello World"
-<img src="assets/hand_waving.gif" width="50" height="50">
+<img src="assets/hand_waving.gif" width="800" height="800">
 </h1>
 
 ### Hi there 👋
