@@ -9,7 +9,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently studying in ***University of La Laguna*** 
+- 🔭 I’m currently studying at ***University of La Laguna*** 
 - 🌱 I’m currently learning mobile apps development 
 - 📫 How to reach me: [***student***](mailto:alu0101539157@ull.edu.es) or [***personal***](gabriel04mb@gmail.com)
 - ⚡ Fun fact: trying to survive uni
