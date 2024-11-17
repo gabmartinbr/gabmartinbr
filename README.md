@@ -9,9 +9,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently studying at ***University of La Laguna*** 
-- 🌱 I’m currently learning mobile apps development 
-- 📫 How to reach me: [***student***](mailto:alu0101539157@ull.edu.es) or [***personal***](gabriel04mb@gmail.com)
+- 🔭 Currently studying at ***University of La Laguna*** 
+- 🌱 Currently learning mobile apps development
+- 📫 How to reach me: [***student mail***](mailto:alu0101539157@ull.edu.es)
 - ⚡ Fun fact: trying to survive uni
 
 ### Currently using:
