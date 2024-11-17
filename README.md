@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 
 ### Currently using:
 <p>
-  <img style="vertical-align:middle; margin:5px 10px" height="35" width="35" src="assets/arch_blue.svg"> Arch Linux
+  <img style="vertical-align:middle; margin:5px 10px" height="35" width="35" src="assets/arch_blue.svg"> 
 </p>
 <p>
-  <img style="vertical-align:middle; margin:5px 10px" height="35" width="35" src="assets/windows_blue.png"> Windows 11
+  <img style="vertical-align:middle; margin:5px 10px" height="35" width="35" src="assets/windows_blue.png"> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
