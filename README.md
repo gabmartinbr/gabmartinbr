@@ -3,7 +3,7 @@
 
 <h1 align="center"> cout << "Hello World!👋" << endl;
 </h1>
-<img align="right" alt="Coding" width="400" src="assets/space.gif">
+<img align="right" alt="Coding" width="400" src="assets/koi.gif">
 
 <!--
 **gabmartinbr/gabmartinbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
