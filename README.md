@@ -1,4 +1,5 @@
-![city](https://github.com/user-attachments/assets/d873cbb8-47bc-4c65-905f-291dbef68489)
+
+![koi](https://github.com/user-attachments/assets/32b4f98f-6b42-4b50-b99b-84dbeccfc13b)
 
 <h1 align="center"> cout << "Hello World!👋" << endl;
 </h1>
