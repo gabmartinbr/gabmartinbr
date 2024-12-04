@@ -1,5 +1,4 @@
-
-![rain](https://github.com/user-attachments/assets/30a9f16a-46b2-4712-bcec-02c345395c24)
+!(assets/8351209.gif)
 
 
 <h1 align="center"> cout << "Hello World!👋" << endl;
