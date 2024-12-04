@@ -1,9 +1,9 @@
-!(assets/8351209.gif)
 
+![mario](https://github.com/user-attachments/assets/ca37272e-1c56-4900-91bd-ffe27d480dca)
 
 <h1 align="center"> cout << "Hello World!👋" << endl;
 </h1>
-<img align="right" alt="Coding" width="400" src="assets/snor.gif">
+<img align="right" alt="Coding" width="400" src="assets/rain.gif">
 
 <!--
 **gabmartinbr/gabmartinbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
