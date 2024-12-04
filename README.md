@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 Currently studying at ***University of La Laguna*** 
 - 🌱 Currently learning mobile apps development
-- 📫 How to reach me: [***student mail***](mailto:alu0101539157@ull.edu.es)
+- 📫 How to reach me: [***personal mail***](mailto:gabriel04mb@gmail.com)
 - ⚡ Fun fact: trying to survive uni
 
 ### Currently using:
