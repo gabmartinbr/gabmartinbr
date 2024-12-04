@@ -31,7 +31,12 @@ Here are some ideas to get you started:
   <img src="assets/html.svg" alt="html" width="40" height="40"/>
   <img src="assets/expo.svg" alt="expo" width="40" height="40"/>
   <img src="assets/react.svg" alt="react" width="40" height="40"/>
+  <img src="assets/javascript-svgrepo-com.svg" alt="js" width="40" height="40"/>
   <img src="assets/android.svg" alt="android" width="40" height="40"/>
+  <img src="assets/flutter-svgrepo-com.svg" alt="flutter" width="40" height="40"/>
+  <img src="assets/dart-svgrepo-com.svg" alt="dart" width="40" height="40"/>
+
+
 
   
 </p>
