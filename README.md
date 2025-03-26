@@ -11,7 +11,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 Currently studying at ***University of La Laguna*** 
-- 🌱 Currently learning multiplatform apps development && pentesting/CTF 
+- 🌱 Currently learning pentesting CTF 
 - 📫 How to reach me: [***personal mail***](mailto:alu0101539157@ull.edu.com)
 - ⚡ Fun fact: always core dump, always...
 
