@@ -11,9 +11,9 @@
 Here are some ideas to get you started:
 -->
 - 🔭 Currently studying at ***University of La Laguna*** 
-- 🌱 Currently learning mobile apps development
-- 📫 How to reach me: [***personal mail***](mailto:gabriel04mb@gmail.com)
-- ⚡ Fun fact: trying to survive uni
+- 🌱 Currently learning multiplatform apps development && pentesting/CTF 
+- 📫 How to reach me: [***personal mail***](mailto:alu0101539157@ull.edu.com)
+- ⚡ Fun fact: always core dump, always...
 
 ### Currently using:
 <p>
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <img src="assets/flutter-svgrepo-com.svg" alt="flutter" width="40" height="40"/>
   <img src="assets/dart-svgrepo-com.svg" alt="dart" width="40" height="40"/>
 
-
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4429518" style='border:none;'></iframe>
 
   
 </p>
