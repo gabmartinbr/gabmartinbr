@@ -1,5 +1,5 @@
 
-![mario](https://github.com/user-attachments/assets/ca37272e-1c56-4900-91bd-ffe27d480dca)
+<img align="center" alt="bann" width="1100" src="assets/rain.gif">
 
 <h1 align="center"> cout << "Hello World!👋" << endl;
 </h1>
