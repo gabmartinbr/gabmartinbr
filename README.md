@@ -50,7 +50,6 @@ Here are some ideas to get you started:
   <img src="https://nirzak-streak-stats.vercel.app/?user=gabmartinbr&theme=tokyonight&hide_border=false" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabmartinbr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150"/>
 </p>
-![pacman](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
