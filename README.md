@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p align="left">
   <img src="assets/arch_blue.svg" alt="Arch" width="45" height="45" style="vertical-align: middle;"/> &nbsp;&nbsp;
   <img src="assets/windows_blue.png" alt="Windows" width="45" height="45" style="vertical-align: middle;"/> &nbsp;&nbsp;
-  <img src="assets/icons8-kali-linux.svg" alt="Kali Linux" width="45" height="45" style="vertical-align: middle;"/>
+  <img src="assets/icons8-kali-linux.svg" alt="Kali Linux" width="55" height="55" style="vertical-align: middle;"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
