@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 <p>
   <img style="vertical-align:middle; margin:5px 10px" height="35" width="35" src="assets/windows_blue.png"> 
 </p>
+<p>
+  <img style="vertical-align:middle; margin:5px 10px" height="35" width="35" src="assets/icons8-kali-linux.svg"> 
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -37,6 +40,7 @@ Here are some ideas to get you started:
   <img src="assets/dart-svgrepo-com.svg" alt="dart" width="40" height="40"/>
 
 
-  
+  ![icons8-kali-linux](https://github.com/user-attachments/assets/dd4dc239-5484-4773-82ce-8c90f02d0574)
+
 </p>
 <img src="https://tryhackme-badges.s3.amazonaws.com/Br1g4fVr5.png" alt="Your Image Badge" />
