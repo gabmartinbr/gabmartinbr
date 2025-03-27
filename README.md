@@ -3,7 +3,7 @@
 
 <h1 align="center"> cout << "Hello World!👋" << endl;
 </h1>
-<img align="right" alt="Coding" width="400" src="assets/octocat-1743109414944.png">
+<img align="right" alt="Coding" width="400" src="assets/octocat-1743110146579.png">
 
 <!--
 **gabmartinbr/gabmartinbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
