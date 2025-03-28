@@ -1,7 +1,9 @@
 
 <img align="center" alt="bann" width="1100" src="assets/rain.gif">
 
-<h1 align="center"> echo "flag{intruder_detected_welcome_anyway}" | nc -lvnp 1337 
+<p align="center">
+  <img src="https://img.shields.io/badge/flag%7Bintruder_detected_welcome_anyway%7D-green?style=for-the-badge&logo=gnu-bash&logoColor=white">
+</p>
 </h1>
 <img align="right" alt="Coding" width="400" src="assets/octocat-1743110249499.png">
 
