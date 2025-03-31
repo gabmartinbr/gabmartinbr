@@ -55,3 +55,4 @@ Here are some ideas to get you started:
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/DaniCaDev/DaniCaDev/blob/output/github-contribution-grid-snake-dark.svg)
