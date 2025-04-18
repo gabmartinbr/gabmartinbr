@@ -13,7 +13,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 Currently studying at ***University of La Laguna*** 
-- 🌱 Currently learning pentesting CTF 
+- 🌱 Currently learning pentesting CTF & flutter dev
 - 📫 How to reach me: [***personal mail***](mailto:alu0101539157@ull.edu.com)
 - ⚡ Fun fact: always core dump, always...
 </br>
@@ -37,11 +37,6 @@ Here are some ideas to get you started:
   <img src="assets/dart-svgrepo-com.svg" alt="dart" width="40" height="40"/>
   <img src="assets/icons8-nmap.svg" alt="nmap" width="40" height="40"/>
   <img src="assets/icons8-metasploit-32.png" alt="mfsconsole" width="40" height="40"/>
-
-
-
-</p>
-<img src="https://tryhackme-badges.s3.amazonaws.com/Br1g4fVr5.png" alt="Your Image Badge" />
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white![icons8-nmap](https://github.com/user-attachments/assets/e7c378df-dcea-4ef8-857f-85a7eeed3cc0)
