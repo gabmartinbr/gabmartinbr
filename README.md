@@ -13,7 +13,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 Currently studying at ***University of La Laguna*** 
-- 🌱 Currently learning pentesting CTF & flutter dev
+- 🌱 Currently learning pentesting CTF, flutter dev && ts
 - 📫 How to reach me: [***personal mail***](mailto:alu0101539157@ull.edu.com)
 - ⚡ Fun fact: always core dump, always...
 </br>
