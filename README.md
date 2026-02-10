@@ -1,9 +1,9 @@
 
 <img align="center" alt="bann" width="1100" src="assets/rain.gif">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/flag%7Bintruder_detected_welcome_anyway%7D-green?style=for-the-badge&logo=gnu-bash&logoColor=white">
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/const%20%5Bvisitor%2C%20setVisitor%5D%20-useState('Friend')-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="Welcome Hook" />
+</div>
 </h1>
 <img align="right" alt="Coding" width="400" src="assets/octocat-1743110249499.png">
 
