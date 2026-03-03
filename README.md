@@ -1,9 +1,6 @@
 
 <img align="center" alt="bann" width="1100" src="assets/rain.gif">
 
-<div align="center">
-  <img src="https://img.shields.io/badge/const%20%5Bvisitor%2C%20setVisitor%5D%20-useState('Friend')-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="Welcome Hook" />
-</div>
 </h1>
 <img align="right" alt="Coding" width="400" src="assets/octocat-1743110249499.png">
 
@@ -17,29 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [***institutional mail***](mailto:alu0101539157@ull.edu.com)
 - ⚡ Fun fact: error in empty line? yes
 </br>
-<!--
-<p align="left">
-  <img src="assets/arch_blue.svg" alt="Arch" width="45" height="45" style="vertical-align: middle;"/> &nbsp;&nbsp;
-  <img src="assets/windows_blue.png" alt="Windows" width="45" height="45" style="vertical-align: middle;"/> &nbsp;&nbsp;
-  <img src="assets/icons8-kali-linux.svg" alt="Kali Linux" width="55" height="55" style="vertical-align: middle;"/>
-</p>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="assets/linux.svg" alt="linux" width="40" height="40"/>
-  <img src="assets/bash.svg" alt="bash" width="40" height="40"/>
-  <img src="assets/c++.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="assets/html.svg" alt="html" width="40" height="40"/>
-  <img src="assets/expo.svg" alt="expo" width="40" height="40"/>
-  <img src="assets/react.svg" alt="react" width="40" height="40"/>
-  <img src="assets/javascript-svgrepo-com.svg" alt="js" width="40" height="40"/>
-  <img src="assets/android.svg" alt="android" width="40" height="40"/>
-  <img src="assets/flutter-svgrepo-com.svg" alt="flutter" width="40" height="40"/>
-  <img src="assets/dart-svgrepo-com.svg" alt="dart" width="40" height="40"/>
-  <img src="assets/icons8-nmap.svg" alt="nmap" width="40" height="40"/>
-  <img src="assets/icons8-metasploit-32.png" alt="mfsconsole" width="40" height="40"/>
--->
 
 # 💻 Tech Stack
 
