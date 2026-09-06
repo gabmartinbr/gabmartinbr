@@ -10,7 +10,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 Currently studying at ***University of La Laguna*** 
-- 🌱 Currently learning PERN stack and flutter.
+- 🌱 Currently learning PERN stack and Astro.
 - 📫 How to reach me: [***institutional mail***](mailto:alu0101539157@ull.edu.com)
 - ⚡ Fun fact: error in empty line? yes
 </br>
